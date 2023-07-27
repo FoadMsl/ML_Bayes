@@ -1,5 +1,5 @@
 #=================================================
-#   ML_HW2-2_Moslem_401129902
+#   ML_HW_Bayes
 #   Foad Moslem (foad.moslem@gmail.com) - Researcher | Aerodynamics
 #   Using Python 3.9.16
 #=================================================
